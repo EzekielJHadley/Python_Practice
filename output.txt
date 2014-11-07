@@ -1,0 +1,5 @@
+t st ng   th s
+ e  i       i 
+The following vowels where removed, and their quantity 
+i : 2 
+e : 1 
